@@ -1,0 +1,13 @@
+ Clock With Tics 4Sure Version 009
+ uses 0832 LED Matrix Display from Sure Electronics
+ June 2011, January 2013
+ by Michael B. LeBlanc
+ NSCAD University
+ 
+ *** VERSION 009 IS UPDATED FOR ARDUINO 1.0.2 ***
+ 
+ version 008 includes a "child safe" switch and LED
+ indicator at D13. 
+ 
+ MatrixDisplay and DisplayToolbox from Miles Burton 
+ http://milesburton.com/HT1632_Arduino_%22Matrix_Display%22_Library_for_the_Sure_2416_and_0832
